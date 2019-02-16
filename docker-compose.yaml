@@ -1,6 +1,6 @@
 version: "2"
 services:
-  ethql:
+  ethql1:
     image: ethql:latest
     expose:
     - "4000"
